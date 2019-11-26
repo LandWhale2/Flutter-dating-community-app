@@ -57,18 +57,22 @@
 # Screen Shot
 
 ### 메인 로그인  
-<img width="178" alt="스크린샷 2019-11-25 오후 8 22 18" src="https://user-images.githubusercontent.com/43875634/69606970-8f4bb200-1067-11ea-8f4e-f56d7dc2a12d.png">
+<img width="178" alt="스크린샷 2019-11-25 오후 8 22 18" src="https://user-images.githubusercontent.com/43875634/69606970-8f4bb200-1067-11ea-8f4e-f56d7dc2a12d.png">  
+
 ### 회원가입 페이지  
-<img width="178" alt="스크린샷 2019-11-25 오후 8 22 27" src="https://user-images.githubusercontent.com/43875634/69606818-34b25600-1067-11ea-8eed-0573d5c9cd35.png">
+
+<img width="178" alt="스크린샷 2019-11-25 오후 8 22 27" src="https://user-images.githubusercontent.com/43875634/69606818-34b25600-1067-11ea-8eed-0573d5c9cd35.png">  
+
 ### 프로필 수정 페이지  
+
 <img width="178" alt="프로필_수정" src="https://user-images.githubusercontent.com/43875634/69610268-ca051880-106e-11ea-896b-580612921120.png">  
 
 
 
 ### 메인 홈 페이지  
 
-<img width="178" alt="홈" src="https://user-images.githubusercontent.com/43875634/69610374-05074c00-106f-11ea-9c76-7858b9f19f83.png">
-<img width="178" alt="알림" src="https://user-images.githubusercontent.com/43875634/69610383-0a649680-106f-11ea-931b-607b4690e8a7.png">
+<img width="178" alt="홈" src="https://user-images.githubusercontent.com/43875634/69610374-05074c00-106f-11ea-9c76-7858b9f19f83.png">  
+<img width="178" alt="알림" src="https://user-images.githubusercontent.com/43875634/69610383-0a649680-106f-11ea-931b-607b4690e8a7.png">  
 
 ### 게시판   
 
