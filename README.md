@@ -1,2 +1,29 @@
-# Flutter-Dating-community-App
-Flutter Dating community App
+# 플러터 데이팅 커뮤니티 앱
+
+
+
+
+### 작업 소요 기간
+
+- 1개월 15일
+
+
+### 개발 언어 및 프레임워크
+
+- Flutter
+- Dart
+- Firebase
+
+### 구현 기능 및 페이지
+
+0. 서버
+  ㄴ 파이어베이스
+
+
+1. 로그인 페이지
+  ㄴ 구글 로그인 구현
+  ㄴ 휴대폰 인증을 통한 로그인 구현
+  
+<img width="178" alt="스크린샷 2019-11-22 오후 5 51 38" src="https://user-images.githubusercontent.com/43875634/69606580-87d7d900-1066-11ea-9300-9bbc2c0820d4.png">
+
+2. 
