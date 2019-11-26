@@ -112,6 +112,6 @@
 <img width="178" alt="설정 복사본" src="https://user-images.githubusercontent.com/43875634/69611313-da1df780-1070-11ea-9502-62d32f33a220.png">  
 
 
-
+++ 애드몹(광고) 추가되어있습니다  
 
 
